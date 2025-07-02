@@ -16,8 +16,7 @@ This project exemplifies a scalable and efficient approach to managing student i
 
 # **Getting Started**
 1.Clone the repository:
-  https://github.com/Prathamesh-hp/Student-Databse-Management-System-.git
-
+  https://github.com/vanjari03/Student-Database-Management-Systems-.git
 
 2.Set up the environment:
 - Install Java Development Kit (JDK).
